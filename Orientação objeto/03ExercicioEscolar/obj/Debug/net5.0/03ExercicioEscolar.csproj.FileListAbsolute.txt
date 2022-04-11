@@ -1,0 +1,5 @@
+C:\Projetos\Orientação objeto\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.csproj.AssemblyReference.cache
+C:\Projetos\Orientação objeto\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Orientação objeto\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.AssemblyInfoInputs.cache
+C:\Projetos\Orientação objeto\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.AssemblyInfo.cs
+C:\Projetos\Orientação objeto\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.csproj.CoreCompileInputs.cache

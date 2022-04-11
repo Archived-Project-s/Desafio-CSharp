@@ -1,0 +1,5 @@
+C:\Projetos\Orientação objeto\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.csproj.AssemblyReference.cache
+C:\Projetos\Orientação objeto\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Orientação objeto\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.AssemblyInfoInputs.cache
+C:\Projetos\Orientação objeto\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.AssemblyInfo.cs
+C:\Projetos\Orientação objeto\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Projetos\Orientação objeto\08GetSet\obj\Debug\net5.0\08GetSet.csproj.AssemblyReference.cache
+C:\Projetos\Orientação objeto\08GetSet\obj\Debug\net5.0\08GetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Orientação objeto\08GetSet\obj\Debug\net5.0\08GetSet.AssemblyInfoInputs.cache
+C:\Projetos\Orientação objeto\08GetSet\obj\Debug\net5.0\08GetSet.AssemblyInfo.cs
+C:\Projetos\Orientação objeto\08GetSet\obj\Debug\net5.0\08GetSet.csproj.CoreCompileInputs.cache
+C:\Projetos\Orientação objeto\08GetSet\bin\Debug\net5.0\08GetSet.exe
+C:\Projetos\Orientação objeto\08GetSet\bin\Debug\net5.0\08GetSet.deps.json
+C:\Projetos\Orientação objeto\08GetSet\bin\Debug\net5.0\08GetSet.runtimeconfig.json
+C:\Projetos\Orientação objeto\08GetSet\bin\Debug\net5.0\08GetSet.runtimeconfig.dev.json
+C:\Projetos\Orientação objeto\08GetSet\bin\Debug\net5.0\08GetSet.dll
+C:\Projetos\Orientação objeto\08GetSet\bin\Debug\net5.0\ref\08GetSet.dll
+C:\Projetos\Orientação objeto\08GetSet\bin\Debug\net5.0\08GetSet.pdb
+C:\Projetos\Orientação objeto\08GetSet\obj\Debug\net5.0\08GetSet.dll
+C:\Projetos\Orientação objeto\08GetSet\obj\Debug\net5.0\ref\08GetSet.dll
+C:\Projetos\Orientação objeto\08GetSet\obj\Debug\net5.0\08GetSet.pdb
+C:\Projetos\Orientação objeto\08GetSet\obj\Debug\net5.0\08GetSet.genruntimeconfig.cache

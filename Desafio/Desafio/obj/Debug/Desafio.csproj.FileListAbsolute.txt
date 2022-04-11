@@ -1,0 +1,7 @@
+C:\Projetos\Desafio\Desafio\bin\Debug\Desafio.exe.config
+C:\Projetos\Desafio\Desafio\bin\Debug\Desafio.exe
+C:\Projetos\Desafio\Desafio\bin\Debug\Desafio.pdb
+C:\Projetos\Desafio\Desafio\obj\Debug\Desafio.csproj.AssemblyReference.cache
+C:\Projetos\Desafio\Desafio\obj\Debug\Desafio.csproj.CoreCompileInputs.cache
+C:\Projetos\Desafio\Desafio\obj\Debug\Desafio.exe
+C:\Projetos\Desafio\Desafio\obj\Debug\Desafio.pdb

@@ -1,0 +1,7 @@
+C:\Projetos\DesafioPOO\DesafioPOO\bin\Debug\DesafioPOO.exe.config
+C:\Projetos\DesafioPOO\DesafioPOO\bin\Debug\DesafioPOO.exe
+C:\Projetos\DesafioPOO\DesafioPOO\bin\Debug\DesafioPOO.pdb
+C:\Projetos\DesafioPOO\DesafioPOO\obj\Debug\DesafioPOO.csproj.AssemblyReference.cache
+C:\Projetos\DesafioPOO\DesafioPOO\obj\Debug\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Projetos\DesafioPOO\DesafioPOO\obj\Debug\DesafioPOO.exe
+C:\Projetos\DesafioPOO\DesafioPOO\obj\Debug\DesafioPOO.pdb
